@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fe2e41f75a7f6a47b532bc2036c6d69, type: 3}
+  m_Name: Wave_ArmoredChicken_V
+  m_EditorClassIdentifier: 
+  waveType: 0
+  enemyPrefab: {fileID: 4300000001, guid: bb22bb22bb22bb22bb22bb22bb22bb22, type: 3}
+  enemyCount: 5
+  enemyHealth: 5
+  movementSpeed: 2.2
+  spawnInterval: 0.4
+  eggDropIntervalRange: {x: 1.5, y: 3}
+  formationType: 1
+  formationSpacing: 1.6
+  entryWaypoints: []
+  diveAttack:
+    diveChance: 0.2
+    diveCooldown: 2.5
+    diveSpeed: 7
+    disableEggsWhileDiving: 1
+  difficultyModifiers:
+    HealthMultiplier: 1
+    SpeedMultiplier: 1
+    SpawnIntervalMultiplier: 1
+    EggIntervalMultiplier: 1
+    CountMultiplier: 1
+  bossEncounterData: {fileID: 0}

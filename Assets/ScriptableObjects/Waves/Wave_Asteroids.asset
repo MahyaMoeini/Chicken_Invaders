@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fe2e41f75a7f6a47b532bc2036c6d69, type: 3}
+  m_Name: Wave_Asteroids
+  m_EditorClassIdentifier: 
+  waveType: 1
+  enemyPrefab: {fileID: 4500000001, guid: bb44bb44bb44bb44bb44bb44bb44bb44, type: 3}
+  enemyCount: 20
+  enemyHealth: 3
+  movementSpeed: 2
+  spawnInterval: 0.75
+  eggDropIntervalRange: {x: 2, y: 5}
+  formationType: 0
+  formationSpacing: 1.5
+  entryWaypoints: []
+  diveAttack:
+    diveChance: 0
+    diveCooldown: 99
+    diveSpeed: 1
+    disableEggsWhileDiving: 1
+  difficultyModifiers:
+    HealthMultiplier: 1
+    SpeedMultiplier: 1
+    SpawnIntervalMultiplier: 1
+    EggIntervalMultiplier: 1
+    CountMultiplier: 1
+  bossEncounterData: {fileID: 0}

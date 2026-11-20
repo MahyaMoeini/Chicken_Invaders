@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fe2e41f75a7f6a47b532bc2036c6d69, type: 3}
+  m_Name: Wave_BossPlaceholder_Armored
+  m_EditorClassIdentifier: 
+  waveType: 0
+  enemyPrefab: {fileID: 4300000001, guid: bb22bb22bb22bb22bb22bb22bb22bb22, type: 3}
+  enemyCount: 7
+  enemyHealth: 5
+  movementSpeed: 2.2
+  spawnInterval: 0.32
+  eggDropIntervalRange: {x: 1.2, y: 2.5}
+  formationType: 1
+  formationSpacing: 1.5
+  entryWaypoints: []
+  diveAttack:
+    diveChance: 0.3
+    diveCooldown: 2
+    diveSpeed: 8
+    disableEggsWhileDiving: 1
+  difficultyModifiers:
+    HealthMultiplier: 1.5
+    SpeedMultiplier: 1.2
+    SpawnIntervalMultiplier: 0.85
+    EggIntervalMultiplier: 0.85
+    CountMultiplier: 1
+  bossEncounterData: {fileID: 0}
