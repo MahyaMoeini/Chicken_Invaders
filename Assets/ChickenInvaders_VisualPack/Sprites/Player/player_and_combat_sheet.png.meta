@@ -1,0 +1,522 @@
+fileFormatVersion: 2
+guid: 62029828d15e1564eac00f8c459b6881
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6913215319915487806
+    second: player_and_combat_sheet_0
+  - first:
+      213: -1652245220961219986
+    second: player_and_combat_sheet_1
+  - first:
+      213: 1864943757320231667
+    second: player_and_combat_sheet_2
+  - first:
+      213: 1932352060454994125
+    second: player_and_combat_sheet_3
+  - first:
+      213: -5353807309235780449
+    second: player_and_combat_sheet_4
+  - first:
+      213: 7602345569507149031
+    second: player_and_combat_sheet_5
+  - first:
+      213: -4046539660067740375
+    second: player_and_combat_sheet_6
+  - first:
+      213: 3581160659068036495
+    second: player_and_combat_sheet_7
+  - first:
+      213: 7233904051813375834
+    second: player_and_combat_sheet_8
+  - first:
+      213: 8519828492636754032
+    second: player_and_combat_sheet_9
+  - first:
+      213: -2647320986921386321
+    second: player_and_combat_sheet_10
+  - first:
+      213: -5481806436179016782
+    second: player_and_combat_sheet_11
+  - first:
+      213: 8214448987580094039
+    second: player_and_combat_sheet_12
+  - first:
+      213: -3188821481740805443
+    second: player_and_combat_sheet_13
+  - first:
+      213: 3089584663545910015
+    second: player_and_combat_sheet_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: player_and_combat_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1433
+        height: 1086
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32e957a4bca0ff50800000000000000
+      internalID: 6913215319915487806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_and_combat_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 826
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a05cab9bb0219e0800000000000000
+      internalID: -1652245220961219986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_and_combat_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 736
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa9725677c91e910800000000000000
+      internalID: 1864943757320231667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_and_combat_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 439
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc00a6006f711da10800000000000000
+      internalID: 1932352060454994125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_and_combat_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 451
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f948c113e9473b5b0800000000000000
+      internalID: -5353807309235780449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_and_combat_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 311
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e40d3a3405f08960800000000000000
+      internalID: 7602345569507149031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_and_combat_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 269
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925e1206e9dc7d7c0800000000000000
+      internalID: -4046539660067740375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_and_combat_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 283
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f85aa5745a6d2b130800000000000000
+      internalID: 3581160659068036495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_and_combat_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 277
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f5893886df36460800000000000000
+      internalID: 7233904051813375834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_and_combat_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 275
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0709dd2cfd28c3670800000000000000
+      internalID: 8519828492636754032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_and_combat_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 244
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae3d18a693d24bd0800000000000000
+      internalID: -2647320986921386321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_and_combat_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 5
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b389141716bce3b0800000000000000
+      internalID: -5481806436179016782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_and_combat_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 46
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756574a05d59ff170800000000000000
+      internalID: 8214448987580094039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_and_combat_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 58
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba54b8e1c70fb3d0800000000000000
+      internalID: -3188821481740805443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_and_combat_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 29
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff21626d1e860ea20800000000000000
+      internalID: 3089584663545910015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      player_and_combat_sheet_0: 6913215319915487806
+      player_and_combat_sheet_1: -1652245220961219986
+      player_and_combat_sheet_10: -2647320986921386321
+      player_and_combat_sheet_11: -5481806436179016782
+      player_and_combat_sheet_12: 8214448987580094039
+      player_and_combat_sheet_13: -3188821481740805443
+      player_and_combat_sheet_14: 3089584663545910015
+      player_and_combat_sheet_2: 1864943757320231667
+      player_and_combat_sheet_3: 1932352060454994125
+      player_and_combat_sheet_4: -5353807309235780449
+      player_and_combat_sheet_5: 7602345569507149031
+      player_and_combat_sheet_6: -4046539660067740375
+      player_and_combat_sheet_7: 3581160659068036495
+      player_and_combat_sheet_8: 7233904051813375834
+      player_and_combat_sheet_9: 8519828492636754032
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

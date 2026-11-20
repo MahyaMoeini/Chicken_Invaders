@@ -1,0 +1,1692 @@
+fileFormatVersion: 2
+guid: 48595bf4b8b7c1340a8ade41b4b98dd5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 309255044077035369
+    second: stage1_simple_chickens_sheet_0
+  - first:
+      213: -3093602817186834434
+    second: stage1_simple_chickens_sheet_1
+  - first:
+      213: -2015481145936987675
+    second: stage1_simple_chickens_sheet_2
+  - first:
+      213: -4481267097038952552
+    second: stage1_simple_chickens_sheet_3
+  - first:
+      213: -3503758012589034590
+    second: stage1_simple_chickens_sheet_4
+  - first:
+      213: -2150728477071391476
+    second: stage1_simple_chickens_sheet_5
+  - first:
+      213: 3430337675257882999
+    second: stage1_simple_chickens_sheet_6
+  - first:
+      213: 7509472672342878728
+    second: stage1_simple_chickens_sheet_7
+  - first:
+      213: 3963543950129113810
+    second: stage1_simple_chickens_sheet_8
+  - first:
+      213: 2283593481162953033
+    second: stage1_simple_chickens_sheet_9
+  - first:
+      213: 3559190844571250691
+    second: stage1_simple_chickens_sheet_10
+  - first:
+      213: 589684183127342987
+    second: stage1_simple_chickens_sheet_11
+  - first:
+      213: 6814265906010020057
+    second: stage1_simple_chickens_sheet_12
+  - first:
+      213: 6176309415187785158
+    second: stage1_simple_chickens_sheet_13
+  - first:
+      213: 2306065011540121905
+    second: stage1_simple_chickens_sheet_14
+  - first:
+      213: 8432337550956009766
+    second: stage1_simple_chickens_sheet_15
+  - first:
+      213: 8954602786461331562
+    second: stage1_simple_chickens_sheet_16
+  - first:
+      213: -3083072197704886331
+    second: stage1_simple_chickens_sheet_17
+  - first:
+      213: -4579591482764452705
+    second: stage1_simple_chickens_sheet_18
+  - first:
+      213: 3194187025723570612
+    second: stage1_simple_chickens_sheet_19
+  - first:
+      213: 5248723727207728925
+    second: stage1_simple_chickens_sheet_20
+  - first:
+      213: 5878473027888839848
+    second: stage1_simple_chickens_sheet_21
+  - first:
+      213: 8670827917563435058
+    second: stage1_simple_chickens_sheet_22
+  - first:
+      213: -8547027634667980722
+    second: stage1_simple_chickens_sheet_23
+  - first:
+      213: 6835652860871971921
+    second: stage1_simple_chickens_sheet_24
+  - first:
+      213: 1492127819018066687
+    second: stage1_simple_chickens_sheet_25
+  - first:
+      213: 6161076302500529661
+    second: stage1_simple_chickens_sheet_26
+  - first:
+      213: 1196841300755952881
+    second: stage1_simple_chickens_sheet_27
+  - first:
+      213: 2867285054041298975
+    second: stage1_simple_chickens_sheet_28
+  - first:
+      213: -847022799537645477
+    second: stage1_simple_chickens_sheet_29
+  - first:
+      213: -8746960118045265229
+    second: stage1_simple_chickens_sheet_30
+  - first:
+      213: 1815570341553653934
+    second: stage1_simple_chickens_sheet_31
+  - first:
+      213: 3293807391820158678
+    second: stage1_simple_chickens_sheet_32
+  - first:
+      213: -7829777228178639222
+    second: stage1_simple_chickens_sheet_33
+  - first:
+      213: -2347151621102867897
+    second: stage1_simple_chickens_sheet_34
+  - first:
+      213: -804459035730724728
+    second: stage1_simple_chickens_sheet_35
+  - first:
+      213: 8251881884563404783
+    second: stage1_simple_chickens_sheet_36
+  - first:
+      213: -8845543953959760484
+    second: stage1_simple_chickens_sheet_37
+  - first:
+      213: 6824441767907147686
+    second: stage1_simple_chickens_sheet_38
+  - first:
+      213: 6539476662304390800
+    second: stage1_simple_chickens_sheet_39
+  - first:
+      213: -4503009096428784842
+    second: stage1_simple_chickens_sheet_40
+  - first:
+      213: 3685903025535472936
+    second: stage1_simple_chickens_sheet_41
+  - first:
+      213: 4446095513514998538
+    second: stage1_simple_chickens_sheet_42
+  - first:
+      213: 555385530312777099
+    second: stage1_simple_chickens_sheet_43
+  - first:
+      213: -4753024825736306073
+    second: stage1_simple_chickens_sheet_44
+  - first:
+      213: 1580427253882726222
+    second: stage1_simple_chickens_sheet_45
+  - first:
+      213: -7441807793744556776
+    second: stage1_simple_chickens_sheet_46
+  - first:
+      213: 7370601349586036138
+    second: stage1_simple_chickens_sheet_47
+  - first:
+      213: -5920431678932099721
+    second: stage1_simple_chickens_sheet_48
+  - first:
+      213: -3833273643015318690
+    second: stage1_simple_chickens_sheet_49
+  - first:
+      213: -3537290701898768392
+    second: stage1_simple_chickens_sheet_50
+  - first:
+      213: -8639630367807944823
+    second: stage1_simple_chickens_sheet_51
+  - first:
+      213: -6008176017995948319
+    second: stage1_simple_chickens_sheet_52
+  - first:
+      213: -6541996563228455154
+    second: stage1_simple_chickens_sheet_53
+  - first:
+      213: -7236151409067658946
+    second: stage1_simple_chickens_sheet_54
+  - first:
+      213: 5819341201238640566
+    second: stage1_simple_chickens_sheet_55
+  - first:
+      213: 6038967073441549957
+    second: stage1_simple_chickens_sheet_56
+  - first:
+      213: -477074570016476573
+    second: stage1_simple_chickens_sheet_57
+  - first:
+      213: -5166810180845455027
+    second: stage1_simple_chickens_sheet_58
+  - first:
+      213: -5887836111333860923
+    second: stage1_simple_chickens_sheet_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stage1_simple_chickens_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 919
+        width: 151
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f9537f2d1ba4400800000000000000
+      internalID: 309255044077035369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage1_simple_chickens_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 947
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef75e6dd0a05115d0800000000000000
+      internalID: -3093602817186834434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage1_simple_chickens_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 909
+        width: 231
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9bde483929704e0800000000000000
+      internalID: -2015481145936987675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage1_simple_chickens_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 909
+        width: 196
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897e85961575fc1c0800000000000000
+      internalID: -4481267097038952552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage1_simple_chickens_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 921
+        width: 232
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3b3b8b6a6206fc0800000000000000
+      internalID: -3503758012589034590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage1_simple_chickens_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 929
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05c7db58d31722e0800000000000000
+      internalID: -2150728477071391476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage1_simple_chickens_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 832
+        width: 311
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779a261e0f10b9f20800000000000000
+      internalID: 3430337675257882999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage1_simple_chickens_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 913
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a208dcb91073860800000000000000
+      internalID: 7509472672342878728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage1_simple_chickens_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 747
+        width: 213
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da281f0936510730800000000000000
+      internalID: 3963543950129113810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage1_simple_chickens_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 747
+        width: 221
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9419d101c24f0bf10800000000000000
+      internalID: 2283593481162953033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage1_simple_chickens_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 747
+        width: 216
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300fd7a3739c46130800000000000000
+      internalID: 3559190844571250691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage1_simple_chickens_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 848
+        width: 88
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8fb8f8e3aafe2800800000000000000
+      internalID: 589684183127342987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage1_simple_chickens_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 826
+        width: 53
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d858ccecb2219e50800000000000000
+      internalID: 6814265906010020057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage1_simple_chickens_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 907
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c52b2b80b8a6b550800000000000000
+      internalID: 6176309415187785158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage1_simple_chickens_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 734
+        width: 202
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1395ec1f8e9c00020800000000000000
+      internalID: 2306065011540121905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage1_simple_chickens_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 877
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6299bee735ea50570800000000000000
+      internalID: 8432337550956009766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage1_simple_chickens_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 866
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6030cf6ac3254c70800000000000000
+      internalID: 8954602786461331562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage1_simple_chickens_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 752
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c7dae6cb2ab635d0800000000000000
+      internalID: -3083072197704886331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage1_simple_chickens_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 753
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c9b656fc50270c0800000000000000
+      internalID: -4579591482764452705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage1_simple_chickens_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 0
+        width: 543
+        height: 829
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b93a662d28045c20800000000000000
+      internalID: 3194187025723570612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage1_simple_chickens_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 566
+        width: 186
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d178164cb6637d840800000000000000
+      internalID: 5248723727207728925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage1_simple_chickens_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 570
+        width: 225
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac7709c218849150800000000000000
+      internalID: 5878473027888839848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage1_simple_chickens_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 722
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23898ee0d08f45870800000000000000
+      internalID: 8670827917563435058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage1_simple_chickens_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 710
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e48fa2e76abd26980800000000000000
+      internalID: -8547027634667980722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage1_simple_chickens_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 572
+        width: 186
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15418246f0e1dde50800000000000000
+      internalID: 6835652860871971921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage1_simple_chickens_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 716
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffadc04885a15b410800000000000000
+      internalID: 1492127819018066687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage1_simple_chickens_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 582
+        width: 198
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df50f9c114a808550800000000000000
+      internalID: 6161076302500529661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage1_simple_chickens_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 637
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4331862d80c9010800000000000000
+      internalID: 1196841300755952881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage1_simple_chickens_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 572
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f181beba094aac720800000000000000
+      internalID: 2867285054041298975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage1_simple_chickens_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 404
+        width: 201
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58d6e46045ce34f0800000000000000
+      internalID: -847022799537645477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage1_simple_chickens_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 558
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b23763bd1e8c9680800000000000000
+      internalID: -8746960118045265229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage1_simple_chickens_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 374
+        width: 209
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea84a093b93323910800000000000000
+      internalID: 1815570341553653934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage1_simple_chickens_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 378
+        width: 228
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d61ffb1f54f5bd20800000000000000
+      internalID: 3293807391820158678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage1_simple_chickens_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 528
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8638fb481b075390800000000000000
+      internalID: -7829777228178639222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage1_simple_chickens_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 505
+        width: 11
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a6e2e490e3d6fd0800000000000000
+      internalID: -2347151621102867897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage1_simple_chickens_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 386
+        width: 204
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888baeae4ccf5d4f0800000000000000
+      internalID: -804459035730724728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage1_simple_chickens_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 208
+        width: 229
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe7f1e98ad2948270800000000000000
+      internalID: 8251881884563404783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage1_simple_chickens_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 380
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9dcf1bb3a05e3580800000000000000
+      internalID: -8845543953959760484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage1_simple_chickens_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 205
+        width: 214
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6afb17661a945be50800000000000000
+      internalID: 6824441767907147686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage1_simple_chickens_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 202
+        width: 213
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e3c917063e0ca50800000000000000
+      internalID: 6539476662304390800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage1_simple_chickens_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 204
+        width: 217
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6337203b5191281c0800000000000000
+      internalID: -4503009096428784842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage1_simple_chickens_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 264
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8255491e545f62330800000000000000
+      internalID: 3685903025535472936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage1_simple_chickens_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 266
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0bf4882054b3bd30800000000000000
+      internalID: 4446095513514998538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage1_simple_chickens_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 244
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d5faf723025b700800000000000000
+      internalID: 555385530312777099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage1_simple_chickens_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 212
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762ef558a1dd90eb0800000000000000
+      internalID: -4753024825736306073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage1_simple_chickens_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 206
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47a605c63ecee510800000000000000
+      internalID: 1580427253882726222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage1_simple_chickens_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 202
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d4f1f6d3369b890800000000000000
+      internalID: -7441807793744556776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage1_simple_chickens_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 212
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5271750e2a94660800000000000000
+      internalID: 7370601349586036138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage1_simple_chickens_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 214
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d584c71c666dda0800000000000000
+      internalID: -5920431678932099721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage1_simple_chickens_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 194
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5354356ee97dcac0800000000000000
+      internalID: -3833273643015318690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage1_simple_chickens_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 17
+        width: 210
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff180619d409eec0800000000000000
+      internalID: -3537290701898768392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage1_simple_chickens_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 29
+        width: 195
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987412884fdd91880800000000000000
+      internalID: -8639630367807944823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage1_simple_chickens_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 157
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee945b8ebbae9ca0800000000000000
+      internalID: -6008176017995948319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage1_simple_chickens_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 183
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f01f669c82635a0800000000000000
+      internalID: -6541996563228455154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage1_simple_chickens_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 21
+        width: 185
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e317499d1a6049b90800000000000000
+      internalID: -7236151409067658946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage1_simple_chickens_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 29
+        width: 216
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7cf968df372c050800000000000000
+      internalID: 5819341201238640566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage1_simple_chickens_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 163
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e83c6be88bec350800000000000000
+      internalID: 6038967073441549957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage1_simple_chickens_sheet_57
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 113
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362bbcac4371169f0800000000000000
+      internalID: -477074570016476573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage1_simple_chickens_sheet_58
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 50
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49b5d4f38dcb48b0800000000000000
+      internalID: -5166810180845455027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stage1_simple_chickens_sheet_59
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 37
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c95a3870443a4ea0800000000000000
+      internalID: -5887836111333860923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      stage1_simple_chickens_sheet_0: 309255044077035369
+      stage1_simple_chickens_sheet_1: -3093602817186834434
+      stage1_simple_chickens_sheet_10: 3559190844571250691
+      stage1_simple_chickens_sheet_11: 589684183127342987
+      stage1_simple_chickens_sheet_12: 6814265906010020057
+      stage1_simple_chickens_sheet_13: 6176309415187785158
+      stage1_simple_chickens_sheet_14: 2306065011540121905
+      stage1_simple_chickens_sheet_15: 8432337550956009766
+      stage1_simple_chickens_sheet_16: 8954602786461331562
+      stage1_simple_chickens_sheet_17: -3083072197704886331
+      stage1_simple_chickens_sheet_18: -4579591482764452705
+      stage1_simple_chickens_sheet_19: 3194187025723570612
+      stage1_simple_chickens_sheet_2: -2015481145936987675
+      stage1_simple_chickens_sheet_20: 5248723727207728925
+      stage1_simple_chickens_sheet_21: 5878473027888839848
+      stage1_simple_chickens_sheet_22: 8670827917563435058
+      stage1_simple_chickens_sheet_23: -8547027634667980722
+      stage1_simple_chickens_sheet_24: 6835652860871971921
+      stage1_simple_chickens_sheet_25: 1492127819018066687
+      stage1_simple_chickens_sheet_26: 6161076302500529661
+      stage1_simple_chickens_sheet_27: 1196841300755952881
+      stage1_simple_chickens_sheet_28: 2867285054041298975
+      stage1_simple_chickens_sheet_29: -847022799537645477
+      stage1_simple_chickens_sheet_3: -4481267097038952552
+      stage1_simple_chickens_sheet_30: -8746960118045265229
+      stage1_simple_chickens_sheet_31: 1815570341553653934
+      stage1_simple_chickens_sheet_32: 3293807391820158678
+      stage1_simple_chickens_sheet_33: -7829777228178639222
+      stage1_simple_chickens_sheet_34: -2347151621102867897
+      stage1_simple_chickens_sheet_35: -804459035730724728
+      stage1_simple_chickens_sheet_36: 8251881884563404783
+      stage1_simple_chickens_sheet_37: -8845543953959760484
+      stage1_simple_chickens_sheet_38: 6824441767907147686
+      stage1_simple_chickens_sheet_39: 6539476662304390800
+      stage1_simple_chickens_sheet_4: -3503758012589034590
+      stage1_simple_chickens_sheet_40: -4503009096428784842
+      stage1_simple_chickens_sheet_41: 3685903025535472936
+      stage1_simple_chickens_sheet_42: 4446095513514998538
+      stage1_simple_chickens_sheet_43: 555385530312777099
+      stage1_simple_chickens_sheet_44: -4753024825736306073
+      stage1_simple_chickens_sheet_45: 1580427253882726222
+      stage1_simple_chickens_sheet_46: -7441807793744556776
+      stage1_simple_chickens_sheet_47: 7370601349586036138
+      stage1_simple_chickens_sheet_48: -5920431678932099721
+      stage1_simple_chickens_sheet_49: -3833273643015318690
+      stage1_simple_chickens_sheet_5: -2150728477071391476
+      stage1_simple_chickens_sheet_50: -3537290701898768392
+      stage1_simple_chickens_sheet_51: -8639630367807944823
+      stage1_simple_chickens_sheet_52: -6008176017995948319
+      stage1_simple_chickens_sheet_53: -6541996563228455154
+      stage1_simple_chickens_sheet_54: -7236151409067658946
+      stage1_simple_chickens_sheet_55: 5819341201238640566
+      stage1_simple_chickens_sheet_56: 6038967073441549957
+      stage1_simple_chickens_sheet_57: -477074570016476573
+      stage1_simple_chickens_sheet_58: -5166810180845455027
+      stage1_simple_chickens_sheet_59: -5887836111333860923
+      stage1_simple_chickens_sheet_6: 3430337675257882999
+      stage1_simple_chickens_sheet_7: 7509472672342878728
+      stage1_simple_chickens_sheet_8: 3963543950129113810
+      stage1_simple_chickens_sheet_9: 2283593481162953033
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

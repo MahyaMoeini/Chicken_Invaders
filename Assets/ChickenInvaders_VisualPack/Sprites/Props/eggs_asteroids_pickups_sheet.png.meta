@@ -1,0 +1,2056 @@
+fileFormatVersion: 2
+guid: 13435fe74bc481448ba39ac068b2604c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7719105105219635591
+    second: eggs_asteroids_pickups_sheet_0
+  - first:
+      213: -2970499794460408977
+    second: eggs_asteroids_pickups_sheet_1
+  - first:
+      213: -7603998368792282797
+    second: eggs_asteroids_pickups_sheet_2
+  - first:
+      213: -289111226153519779
+    second: eggs_asteroids_pickups_sheet_3
+  - first:
+      213: -8061757553515258363
+    second: eggs_asteroids_pickups_sheet_4
+  - first:
+      213: -8000453296254546933
+    second: eggs_asteroids_pickups_sheet_5
+  - first:
+      213: -7455875094010885837
+    second: eggs_asteroids_pickups_sheet_6
+  - first:
+      213: 1003535186479614981
+    second: eggs_asteroids_pickups_sheet_7
+  - first:
+      213: 2827052884459752021
+    second: eggs_asteroids_pickups_sheet_8
+  - first:
+      213: -1150929084908660264
+    second: eggs_asteroids_pickups_sheet_9
+  - first:
+      213: -6799918555287458569
+    second: eggs_asteroids_pickups_sheet_10
+  - first:
+      213: 2599295497624750841
+    second: eggs_asteroids_pickups_sheet_11
+  - first:
+      213: -1184230860879887696
+    second: eggs_asteroids_pickups_sheet_12
+  - first:
+      213: -8007425139063445925
+    second: eggs_asteroids_pickups_sheet_13
+  - first:
+      213: 6409040563850979370
+    second: eggs_asteroids_pickups_sheet_14
+  - first:
+      213: 436612023210938909
+    second: eggs_asteroids_pickups_sheet_15
+  - first:
+      213: -5217257245500054684
+    second: eggs_asteroids_pickups_sheet_16
+  - first:
+      213: 2829434267388029155
+    second: eggs_asteroids_pickups_sheet_17
+  - first:
+      213: -3690350588135498391
+    second: eggs_asteroids_pickups_sheet_18
+  - first:
+      213: 8946341542948124424
+    second: eggs_asteroids_pickups_sheet_19
+  - first:
+      213: -5930111738930375372
+    second: eggs_asteroids_pickups_sheet_20
+  - first:
+      213: 5919001670448834106
+    second: eggs_asteroids_pickups_sheet_21
+  - first:
+      213: -2639063928443693254
+    second: eggs_asteroids_pickups_sheet_22
+  - first:
+      213: 5052807562047148731
+    second: eggs_asteroids_pickups_sheet_23
+  - first:
+      213: 8971984792704752397
+    second: eggs_asteroids_pickups_sheet_24
+  - first:
+      213: 6565853772708265440
+    second: eggs_asteroids_pickups_sheet_25
+  - first:
+      213: -2442288101576284847
+    second: eggs_asteroids_pickups_sheet_26
+  - first:
+      213: -2749349578690673996
+    second: eggs_asteroids_pickups_sheet_27
+  - first:
+      213: -1562685664483513598
+    second: eggs_asteroids_pickups_sheet_28
+  - first:
+      213: 2084160450613330504
+    second: eggs_asteroids_pickups_sheet_29
+  - first:
+      213: -2745613529468953970
+    second: eggs_asteroids_pickups_sheet_30
+  - first:
+      213: 8436100556867252496
+    second: eggs_asteroids_pickups_sheet_31
+  - first:
+      213: 7672485550119377491
+    second: eggs_asteroids_pickups_sheet_32
+  - first:
+      213: 7050361087190385977
+    second: eggs_asteroids_pickups_sheet_33
+  - first:
+      213: -1746574442907802351
+    second: eggs_asteroids_pickups_sheet_34
+  - first:
+      213: -6165310299314070441
+    second: eggs_asteroids_pickups_sheet_35
+  - first:
+      213: 1445545332972603632
+    second: eggs_asteroids_pickups_sheet_36
+  - first:
+      213: 1017528116989871813
+    second: eggs_asteroids_pickups_sheet_37
+  - first:
+      213: -8147703184317165633
+    second: eggs_asteroids_pickups_sheet_38
+  - first:
+      213: -8752386057081107765
+    second: eggs_asteroids_pickups_sheet_39
+  - first:
+      213: -7435867382444074826
+    second: eggs_asteroids_pickups_sheet_40
+  - first:
+      213: 1272281279323362747
+    second: eggs_asteroids_pickups_sheet_41
+  - first:
+      213: 8952832191154723099
+    second: eggs_asteroids_pickups_sheet_42
+  - first:
+      213: -5128937605713626470
+    second: eggs_asteroids_pickups_sheet_43
+  - first:
+      213: -5860576029840618142
+    second: eggs_asteroids_pickups_sheet_44
+  - first:
+      213: -7258659135883749517
+    second: eggs_asteroids_pickups_sheet_45
+  - first:
+      213: 674994287071599017
+    second: eggs_asteroids_pickups_sheet_46
+  - first:
+      213: 7762070793688286783
+    second: eggs_asteroids_pickups_sheet_47
+  - first:
+      213: -7784051378826189109
+    second: eggs_asteroids_pickups_sheet_48
+  - first:
+      213: 4719805369393887004
+    second: eggs_asteroids_pickups_sheet_49
+  - first:
+      213: -3231616277570193242
+    second: eggs_asteroids_pickups_sheet_50
+  - first:
+      213: -9057065300954110194
+    second: eggs_asteroids_pickups_sheet_51
+  - first:
+      213: 1835484674507114675
+    second: eggs_asteroids_pickups_sheet_52
+  - first:
+      213: -4331469282033923238
+    second: eggs_asteroids_pickups_sheet_53
+  - first:
+      213: 3945380489753494231
+    second: eggs_asteroids_pickups_sheet_54
+  - first:
+      213: -5433593668207586689
+    second: eggs_asteroids_pickups_sheet_55
+  - first:
+      213: -2833313738178559670
+    second: eggs_asteroids_pickups_sheet_56
+  - first:
+      213: 7870355957071363196
+    second: eggs_asteroids_pickups_sheet_57
+  - first:
+      213: 7331350937003659633
+    second: eggs_asteroids_pickups_sheet_58
+  - first:
+      213: 5793929268228865266
+    second: eggs_asteroids_pickups_sheet_59
+  - first:
+      213: -6453141603820983762
+    second: eggs_asteroids_pickups_sheet_60
+  - first:
+      213: -3799043416731955537
+    second: eggs_asteroids_pickups_sheet_61
+  - first:
+      213: -8305972923207171373
+    second: eggs_asteroids_pickups_sheet_62
+  - first:
+      213: 121440974889340516
+    second: eggs_asteroids_pickups_sheet_63
+  - first:
+      213: 7864048301166402528
+    second: eggs_asteroids_pickups_sheet_64
+  - first:
+      213: 8602134168038430806
+    second: eggs_asteroids_pickups_sheet_65
+  - first:
+      213: -4993197949649312813
+    second: eggs_asteroids_pickups_sheet_66
+  - first:
+      213: -2614740002237752072
+    second: eggs_asteroids_pickups_sheet_67
+  - first:
+      213: 2786385051748568440
+    second: eggs_asteroids_pickups_sheet_68
+  - first:
+      213: -4275014042421484683
+    second: eggs_asteroids_pickups_sheet_69
+  - first:
+      213: 6142561523030138323
+    second: eggs_asteroids_pickups_sheet_70
+  - first:
+      213: 117105763460576241
+    second: eggs_asteroids_pickups_sheet_71
+  - first:
+      213: 8284998049359088219
+    second: eggs_asteroids_pickups_sheet_72
+  - first:
+      213: 1279084962262586947
+    second: eggs_asteroids_pickups_sheet_73
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 688
+        width: 337
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78945841235cf1b60800000000000000
+      internalID: 7719105105219635591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 574
+        width: 357
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6301d1ec2aa6c6d0800000000000000
+      internalID: -2970499794460408977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1024
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3597c7375cb297690800000000000000
+      internalID: -7603998368792282797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 542
+        width: 443
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55ba802fdedcfbf0800000000000000
+      internalID: -289111226153519779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 1038
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e9665d732ee1090800000000000000
+      internalID: -8061757553515258363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 1038
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c05a28d1ea8f090800000000000000
+      internalID: -8000453296254546933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 686
+        width: 150
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3398ccbda19678890800000000000000
+      internalID: -7455875094010885837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1002
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c09b56fe54ded00800000000000000
+      internalID: 1003535186479614981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 1018
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a877bbe95bb3720800000000000000
+      internalID: 2827052884459752021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1006
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d99a5c58141700f0800000000000000
+      internalID: -1150929084908660264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 978
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fce08af916d1a1a0800000000000000
+      internalID: -6799918555287458569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 905
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa0232cb7d821420800000000000000
+      internalID: 2599295497624750841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 896
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2033d6e44c09fe0800000000000000
+      internalID: -1184230860879887696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 938
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56279cd249efd090800000000000000
+      internalID: -8007425139063445925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 951
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28286faf6c71f850800000000000000
+      internalID: 6409040563850979370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 943
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12172462582f0600800000000000000
+      internalID: 436612023210938909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 783
+        width: 126
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463e22c6d249897b0800000000000000
+      internalID: -5217257245500054684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 724
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e82bf6a97b244720800000000000000
+      internalID: 2829434267388029155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 744
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d978141bd39ccc0800000000000000
+      internalID: -3690350588135498391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 751
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8073ebacb3ac72c70800000000000000
+      internalID: 8946341542948124424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 745
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4355ea2eac204bda0800000000000000
+      internalID: -5930111738930375372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 747
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36eb08b8a4842250800000000000000
+      internalID: 5919001670448834106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 734
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a371195e659206bd0800000000000000
+      internalID: -2639063928443693254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 720
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb25a3ee4bd2f1640800000000000000
+      internalID: 5052807562047148731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 722
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b9f5322a4e28c70800000000000000
+      internalID: 8971984792704752397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 730
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed3f6908399e1b50800000000000000
+      internalID: 6565853772708265440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 703
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155e16259ef3b1ed0800000000000000
+      internalID: -2442288101576284847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 703
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2c5c6ff1958d9d0800000000000000
+      internalID: -2749349578690673996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 702
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b6dd8eaa9305ae0800000000000000
+      internalID: -1562685664483513598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 683
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842c9b133ec6cec10800000000000000
+      internalID: 2084160450613330504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 372
+        width: 418
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a1f75ba0f95e9d0800000000000000
+      internalID: -2745613529468953970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 402
+        width: 259
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0113c8592cc031570800000000000000
+      internalID: 8436100556867252496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 309
+        width: 248
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ade2f05f42a7a60800000000000000
+      internalID: 7672485550119377491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 607
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935483ced0ae7d160800000000000000
+      internalID: 7050361087190385977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 618
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11564b44ccbe2c7e0800000000000000
+      internalID: -1746574442907802351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 621
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75cd35fa2fa607aa0800000000000000
+      internalID: -6165310299314070441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 615
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f84e8e42db9f0410800000000000000
+      internalID: 1445545332972603632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 621
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6472a6e6cfe1e00800000000000000
+      internalID: 1017528116989871813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 635
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbfc47b4f1b8dee80800000000000000
+      internalID: -8147703184317165633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 554
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca4992d047498680800000000000000
+      internalID: -8752386057081107765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 633
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8d188330e7ec890800000000000000
+      internalID: -7435867382444074826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 586
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5d27c251d08a110800000000000000
+      internalID: 1272281279323362747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 566
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1995779179de3c70800000000000000
+      internalID: 8952832191154723099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 568
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9afb400c6a52d8b0800000000000000
+      internalID: -5128937605713626470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 546
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d4e2ac62d0baea0800000000000000
+      internalID: -5860576029840618142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 451
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377510459ff044b90800000000000000
+      internalID: -7258659135883749517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 331
+        width: 150
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a912525abf0e5900800000000000000
+      internalID: 674994287071599017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 455
+        width: 96
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36893bf24a68bb60800000000000000
+      internalID: 7762070793688286783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 38
+        width: 659
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6ecab338e79f390800000000000000
+      internalID: -7784051378826189109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 372
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1734b31afd108140800000000000000
+      internalID: 4719805369393887004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 363
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8fe0d0e1ef623d0800000000000000
+      internalID: -3231616277570193242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 362
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e072d1d5817de4280800000000000000
+      internalID: -9057065300954110194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 372
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b88bae2693f87910800000000000000
+      internalID: 1835484674507114675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 345
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b0ad813a783e3c0800000000000000
+      internalID: -4331469282033923238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 354
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d28383e6aec0c630800000000000000
+      internalID: 3945380489753494231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 356
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72dca0e85ff794b0800000000000000
+      internalID: -5433593668207586689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 23
+        width: 275
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4102aaaa2c0ea8d0800000000000000
+      internalID: -2833313738178559670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_57
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 325
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c3e154b0f193d60800000000000000
+      internalID: 7870355957071363196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_58
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 311
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17194d385d03eb560800000000000000
+      internalID: 7331350937003659633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_59
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 323
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc358ec8fb286050800000000000000
+      internalID: 5793929268228865266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_60
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 323
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2aa4fac6e5d176a0800000000000000
+      internalID: -6453141603820983762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_61
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 329
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faec7630426174bc0800000000000000
+      internalID: -3799043416731955537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_62
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 325
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2493e12a14bbc80800000000000000
+      internalID: -8305972923207171373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_63
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 331
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ec4795ce17fa100800000000000000
+      internalID: 121440974889340516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_64
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 315
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb998fa346b22d60800000000000000
+      internalID: 7864048301166402528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_65
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 309
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6585e24237be06770800000000000000
+      internalID: 8602134168038430806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_66
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 23
+        width: 486
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3a1fd7be894bab0800000000000000
+      internalID: -4993197949649312813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_67
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 54
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc5d9a42d396bbd0800000000000000
+      internalID: -2614740002237752072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_68
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 56
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d8ee0117a3ba620800000000000000
+      internalID: 2786385051748568440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_69
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 51
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57329afd0691ca4c0800000000000000
+      internalID: -4275014042421484683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_70
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 19
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd91371923ce3550800000000000000
+      internalID: 6142561523030138323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_71
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 31
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3f738421b00a100800000000000000
+      internalID: 117105763460576241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_72
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 43
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a4ad084d93af270800000000000000
+      internalID: 8284998049359088219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eggs_asteroids_pickups_sheet_73
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 31
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 346943d0ff830c110800000000000000
+      internalID: 1279084962262586947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      eggs_asteroids_pickups_sheet_0: 7719105105219635591
+      eggs_asteroids_pickups_sheet_1: -2970499794460408977
+      eggs_asteroids_pickups_sheet_10: -6799918555287458569
+      eggs_asteroids_pickups_sheet_11: 2599295497624750841
+      eggs_asteroids_pickups_sheet_12: -1184230860879887696
+      eggs_asteroids_pickups_sheet_13: -8007425139063445925
+      eggs_asteroids_pickups_sheet_14: 6409040563850979370
+      eggs_asteroids_pickups_sheet_15: 436612023210938909
+      eggs_asteroids_pickups_sheet_16: -5217257245500054684
+      eggs_asteroids_pickups_sheet_17: 2829434267388029155
+      eggs_asteroids_pickups_sheet_18: -3690350588135498391
+      eggs_asteroids_pickups_sheet_19: 8946341542948124424
+      eggs_asteroids_pickups_sheet_2: -7603998368792282797
+      eggs_asteroids_pickups_sheet_20: -5930111738930375372
+      eggs_asteroids_pickups_sheet_21: 5919001670448834106
+      eggs_asteroids_pickups_sheet_22: -2639063928443693254
+      eggs_asteroids_pickups_sheet_23: 5052807562047148731
+      eggs_asteroids_pickups_sheet_24: 8971984792704752397
+      eggs_asteroids_pickups_sheet_25: 6565853772708265440
+      eggs_asteroids_pickups_sheet_26: -2442288101576284847
+      eggs_asteroids_pickups_sheet_27: -2749349578690673996
+      eggs_asteroids_pickups_sheet_28: -1562685664483513598
+      eggs_asteroids_pickups_sheet_29: 2084160450613330504
+      eggs_asteroids_pickups_sheet_3: -289111226153519779
+      eggs_asteroids_pickups_sheet_30: -2745613529468953970
+      eggs_asteroids_pickups_sheet_31: 8436100556867252496
+      eggs_asteroids_pickups_sheet_32: 7672485550119377491
+      eggs_asteroids_pickups_sheet_33: 7050361087190385977
+      eggs_asteroids_pickups_sheet_34: -1746574442907802351
+      eggs_asteroids_pickups_sheet_35: -6165310299314070441
+      eggs_asteroids_pickups_sheet_36: 1445545332972603632
+      eggs_asteroids_pickups_sheet_37: 1017528116989871813
+      eggs_asteroids_pickups_sheet_38: -8147703184317165633
+      eggs_asteroids_pickups_sheet_39: -8752386057081107765
+      eggs_asteroids_pickups_sheet_4: -8061757553515258363
+      eggs_asteroids_pickups_sheet_40: -7435867382444074826
+      eggs_asteroids_pickups_sheet_41: 1272281279323362747
+      eggs_asteroids_pickups_sheet_42: 8952832191154723099
+      eggs_asteroids_pickups_sheet_43: -5128937605713626470
+      eggs_asteroids_pickups_sheet_44: -5860576029840618142
+      eggs_asteroids_pickups_sheet_45: -7258659135883749517
+      eggs_asteroids_pickups_sheet_46: 674994287071599017
+      eggs_asteroids_pickups_sheet_47: 7762070793688286783
+      eggs_asteroids_pickups_sheet_48: -7784051378826189109
+      eggs_asteroids_pickups_sheet_49: 4719805369393887004
+      eggs_asteroids_pickups_sheet_5: -8000453296254546933
+      eggs_asteroids_pickups_sheet_50: -3231616277570193242
+      eggs_asteroids_pickups_sheet_51: -9057065300954110194
+      eggs_asteroids_pickups_sheet_52: 1835484674507114675
+      eggs_asteroids_pickups_sheet_53: -4331469282033923238
+      eggs_asteroids_pickups_sheet_54: 3945380489753494231
+      eggs_asteroids_pickups_sheet_55: -5433593668207586689
+      eggs_asteroids_pickups_sheet_56: -2833313738178559670
+      eggs_asteroids_pickups_sheet_57: 7870355957071363196
+      eggs_asteroids_pickups_sheet_58: 7331350937003659633
+      eggs_asteroids_pickups_sheet_59: 5793929268228865266
+      eggs_asteroids_pickups_sheet_6: -7455875094010885837
+      eggs_asteroids_pickups_sheet_60: -6453141603820983762
+      eggs_asteroids_pickups_sheet_61: -3799043416731955537
+      eggs_asteroids_pickups_sheet_62: -8305972923207171373
+      eggs_asteroids_pickups_sheet_63: 121440974889340516
+      eggs_asteroids_pickups_sheet_64: 7864048301166402528
+      eggs_asteroids_pickups_sheet_65: 8602134168038430806
+      eggs_asteroids_pickups_sheet_66: -4993197949649312813
+      eggs_asteroids_pickups_sheet_67: -2614740002237752072
+      eggs_asteroids_pickups_sheet_68: 2786385051748568440
+      eggs_asteroids_pickups_sheet_69: -4275014042421484683
+      eggs_asteroids_pickups_sheet_7: 1003535186479614981
+      eggs_asteroids_pickups_sheet_70: 6142561523030138323
+      eggs_asteroids_pickups_sheet_71: 117105763460576241
+      eggs_asteroids_pickups_sheet_72: 8284998049359088219
+      eggs_asteroids_pickups_sheet_73: 1279084962262586947
+      eggs_asteroids_pickups_sheet_8: 2827052884459752021
+      eggs_asteroids_pickups_sheet_9: -1150929084908660264
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
